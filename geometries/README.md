@@ -1,5 +1,5 @@
 # Geometries
 
-`tcpc-1.stl`, `tcpc-2.stl`, and `tcpc-3.stl` correspond to TCPC-1, TCPC-2, and TCPC-3 in the manuscript.
+Download and unzip [TCPC-1](tcpc-1.stl.zip), [TCPC-2](tcpc-2.stl.zip), or [TCPC-3](tcpc-3.stl.zip).
 
-Original lumen meshes in **millimetres**, at phantom scale. These are not the hollow-wall fabrication parts.
+Original lumen STL meshes in **millimetres**, at phantom scale. These are not the hollow-wall fabrication parts.
